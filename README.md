@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Will 👋🏻
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wmotadev&show_icons=true&theme=transparent)<br>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" align="center"/>
 <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" alt="manjaro" align="center"/>
 
 ### Tecnologias que estou utilizando e estudando
