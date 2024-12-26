@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" align="center"/>
 <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" alt="manjaro" align="center"/>
 
-### Tecnologias que estou utilizando e estudando
+### Tecnologias que estou utilizando e/ou estudando
 
 <div style="display: inline_block">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" align="center"/>
